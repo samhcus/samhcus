@@ -4,8 +4,6 @@
 
 ---
 
-### Im currently reading...
-
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/samhcharles/samhcharles/main/worldwarz-cover.jpg" height="225" alt="World War Z" /></td>
@@ -16,8 +14,6 @@
 
 
 ---
-
-### My Agents...
 
 <table cellspacing="0" cellpadding="12" border="0">
   <tr>
