@@ -1,4 +1,4 @@
-# ☕︎ Samuel (Sam) C.
+# ☕︎ Samuel (mosa) C.
 
 >  **[Mad House ©](https://github.com/madebymadhouse)**
 
