@@ -1,9 +1,3 @@
-# ☕︎ Samuel (Sam) C. 
-
-> Love you mom
-
----
-
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/samhcus/samhcus/main/worldwarz-cover.jpg" height="225" alt="World War Z" /></td>
