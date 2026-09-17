@@ -1,7 +1,5 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/samhcus/samhcus/main/worldwarz-cover.jpg" height="225" alt="World War Z" /></td>
-    <td><img src="https://raw.githubusercontent.com/samhcus/samhcus/main/aisnakeoil.png" height="225" alt="AI Snake Oil" /></td>
     <td><img src="https://raw.githubusercontent.com/samhcus/samhcus/main/currently-reading-cropped.gif" height="225" alt="Currently Reading" /></td>
   </tr>
 </table>
