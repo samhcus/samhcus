@@ -1,12 +1,3 @@
-<table cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/samhcus/samhcus/main/currently-reading-cropped.gif" height="225" alt="Currently Reading" /></td>
-  </tr>
-</table>
-
-
----
-
 <table cellspacing="0" cellpadding="12" border="0">
   <tr>
     <td width="140" align="center" valign="bottom">
