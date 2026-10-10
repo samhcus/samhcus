@@ -1,37 +1,3 @@
-<table cellspacing="0" cellpadding="12" border="0">
-  <tr>
-    <td width="140" align="center" valign="bottom">
-      <a href="https://github.com/madebymadhouse"><img src="https://img.shields.io/badge/Hank-FFD700?style=flat-square&logoColor=black" alt="Hank" /></a><br />
-      <img src="https://raw.githubusercontent.com/samhcus/samhcus/main/hank.gif" width="120" height="120" alt="Hank" />
-    </td>
-    <td width="140" align="center" valign="bottom">
-      <a href="https://github.com/madebymadhouse"><img src="https://img.shields.io/badge/Nqita-FF69B4?style=flat-square" alt="Nqita" /></a><br />
-      <img src="https://raw.githubusercontent.com/samhcus/samhcus/main/nqita.gif" width="120" height="120" alt="Nqita" />
-    </td>
-    <td width="140" align="center" valign="bottom">
-      <a href="https://github.com/madebymadhouse"><img src="https://img.shields.io/badge/Cypork-FFC0CB?style=flat-square&logoColor=black" alt="Cypork" /></a><br />
-      <img src="https://raw.githubusercontent.com/samhcus/samhcus/main/cypork.gif" width="120" height="120" alt="Cypork" />
-    </td>
-    <td width="140" align="center" valign="bottom">
-      <a href="https://github.com/madebymadhouse"><img src="https://img.shields.io/badge/Dublo-808080?style=flat-square" alt="Dublo" /></a><br />
-      <img src="https://raw.githubusercontent.com/samhcus/samhcus/main/dublo.gif" width="120" height="120" alt="Dublo" />
-    </td>
-    <td width="140" align="center" valign="bottom">
-      <a href="https://github.com/madebymadhouse"><img src="https://img.shields.io/badge/Knut-5B8DB8?style=flat-square" alt="Knut" /></a><br />
-      <img src="https://raw.githubusercontent.com/samhcus/samhcus/main/knut.gif" width="120" height="120" alt="Knut" />
-    </td>
-    <td width="140" align="center" valign="bottom">
-      <a href="https://github.com/madebymadhouse"><img src="https://img.shields.io/badge/Justin-E63946?style=flat-square" alt="Justin" /></a><br />
-      <img src="https://raw.githubusercontent.com/samhcus/samhcus/main/justin.gif" width="120" height="120" alt="Justin" />
-    </td>
-    <td width="140" align="center" valign="bottom">
-      <a href="https://github.com/madebymadhouse"><img src="https://img.shields.io/badge/Yahm-2D2D2D?style=flat-square" alt="Yahm" /></a><br />
-      <img src="https://raw.githubusercontent.com/samhcus/samhcus/main/yahm.gif" width="120" height="120" alt="Yahm" />
-    </td>
-  </tr>
-</table>
-
----
 
 <br />
 
